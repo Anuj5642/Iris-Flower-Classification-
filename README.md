@@ -70,11 +70,7 @@ The best-performing model is selected based on accuracy and evaluation metrics.
 
 ## 3.1 Block Diagram
 
-
-
-
-
-
+<img width="724" height="1024" alt="Block diagram" src="https://github.com/user-attachments/assets/55ef08dc-b2e5-4fba-a59f-47bcdd257f8d" />
 
 ---
 
@@ -104,10 +100,7 @@ Used for data visualization.
 
 # 5. Flow Chart
 
-
-
-
-
+<img width="787" height="1024" alt="Flowchart" src="https://github.com/user-attachments/assets/5c787934-eb42-4b19-a517-3b90e76884d3" />
 
 ---
 
